@@ -5,7 +5,6 @@
     
       - 按下WIN+x唤起启动项，点击Windows Powershell(管理员)
       
-        ![powershell_check](./images/check.jpg)
 
         
      
