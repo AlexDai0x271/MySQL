@@ -10,7 +10,7 @@
         winget search MySQL
         ~~~
       Tips:如果我们的电脑上没有安装过winget的话会自动安装winget，源协议条款处输入“y”即可。
-      
+
       我们看到这里有MySQL的8.039版本
         
       - 键入以下代码就可以下载MySQL了
