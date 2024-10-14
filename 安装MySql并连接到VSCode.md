@@ -56,11 +56,13 @@
         如果页面内的所有项目前都出现绿色的勾那么证明我们的安装已经完成了
 
     ## 将MySQL连接到VScode
-
+      - 首先在插件中搜索“MySQL”，我们将会安装名为“MySQL (by Weijan Chen)”插件，“MySQL Shell for VScode (by Oracle)”插件和“MySQL Syntax(by Jake Bathman)”
+   
+      - 安装完成后，在左侧栏目内找到DataBase，进入连接界面点击选择“Create Connection”，在Password栏目内输入之前设置过的root password就可以完成连接
     
         
 
-        
+附录：问题处理        
 ## 更换中科大开源镜像源
   - 查看源列表
     ~~~bash
